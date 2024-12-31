@@ -10,7 +10,7 @@ export default function Home() {
             <div className=' outline outline-2 flex flex-wrap p-10 bg-white  '>
                 
                 <div className=' py-2 px-20 m-20 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-center font-semibold text-xl  text-black w-[118px] h-[24px]  flex '><br/></div>
-                <div><br/><ul className='py-2  mx-20  text-bold outline  items-center flex gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-center text-2xl font-sans'>
+                <div><br/><ul className='py-2  mx-16  text-bold outline  items-center flex gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-center text-2xl font-sans'>
                     
                 <li><a href="Contact" target="blank">Contact</a></li>
                 <li><a href="About" target="blank">About</a></li>
