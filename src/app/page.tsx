@@ -4,7 +4,7 @@ export default function Home() {
     
     <div>
       <div >
- <h2 className='pl-[400] py-6 m-20 flex flex-wrap  sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 bg-black text-white text-3xl text-center font-sans'>Know what you want to know about travelling!! </h2>
+ <h2 className='px-20 py-6 m-20 flex flex-wrap  sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 bg-black text-white text-3xl text-center font-sans'>Know what you want to know about travelling!! </h2>
  <div className='flex'><div className="  mx-5 text-center flex-1 w-16 h-16 rounded-md bg-[url('/back.png')] backdrop-brightness-90 "></div></div>
             
             <div className=' outline outline-2 flex flex-wrap p-10 bg-white  '>
