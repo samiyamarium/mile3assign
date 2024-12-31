@@ -6,7 +6,7 @@ import i3 from '../Home/s3.png';
 export default function Home(){
     return(
         <div>
-            <div className=" flex flex-wrap">
+            <div className=" flex ">
    
    <div className="    grid-cols-1 md:grid-cols-2 lg:grid-cols-3  flex-wrap  m-20 bg-zinc-200 w-[300]
     h-251 pl-8 pt-14  outline-8 border-yellow-500 outline-yellow-500 "><Image className="  bg-white text-gray-700 text-center border-4  outline-black outline outline-6 p-5 text-3xl
